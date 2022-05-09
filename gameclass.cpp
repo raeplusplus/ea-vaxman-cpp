@@ -1,3 +1,5 @@
+//All other files can be found at: https://github.com/raeplusplus/ea-vaxman-cpp
+
 #include "gameclass.h"
 
 int     GameLoop::ft_check_file_inp(std::string str)
